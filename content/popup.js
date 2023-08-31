@@ -30,7 +30,7 @@ const createMainPopup = () => {
                             <div class="gpts-footer">
                                 
                                 <div class="gpts-socials">
-                                    <a href="https://github.com/PrajjawalTiwari29/" target="_blank" title="Github Repository">
+                                    <a href="https://github.com/PrajjawalTiwari29/WEB_Summarizer" target="_blank" title="Github Repository">
                                         <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path
                                                 d="M10.5 30C11.2956 30 12.0587 29.6839 12.6213 29.1213C13.1839 28.5587 13.5 27.7956 13.5 27V21"
